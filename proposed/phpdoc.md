@@ -3,7 +3,7 @@ PSR-5: PHPDoc
 
 Author(s):
 
-    Mike van Riel (@mvriel) <mike.vanriel@naenius.com>
+    Mike van Riel (@mvriel) <mike.vanriel@naenius.com>pa
 
 Acknowledgements:
 
@@ -750,7 +750,7 @@ This tag MUST NOT occur more than once in a "DocBlock".
 
 ```php
 /**
- * Page-Level DocBlock
+ * File-Level DocBlock
  *
  * @category MyCategory
  * @package  MyPackage
